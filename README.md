@@ -168,9 +168,11 @@ By incorporating real-time metrics and intuitive visuals, this project becomes a
 
 ## 📊 Dashboard Preview
 
+### 🖼️ PNG Version  
+![Motorola Sales Dashboard Analysis](Motorola%20Sales%20Dashboard%20Analysis.png)
+
 ### 🖼️ JPEG Version  
 ![Motorola Sales Dashboard Analysis](Motorola%20Sales%20Dashboard%20Analysis.jpg)
 
-### 🖼️ PNG Version  
-![Motorola Sales Dashboard Analysis](Motorola%20Sales%20Dashboard%20Analysis.png)
+
 
