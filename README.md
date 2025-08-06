@@ -1,4 +1,4 @@
-## 📊 Motorola-Sales-BI-Dashboard-Analysis
+## 📱 Motorola-Sales-BI-Dashboard-Analysis
 ---
 
 ## 🧩 Project Overview
